@@ -1,2 +1,2 @@
 class Banner:
-    text = "\n\nTEXT 2 MORSE CODE CONVERTOR\n"
+    text = "\nTEXT 2 MORSE CODE CONVERTOR\n---------------------------\n"
